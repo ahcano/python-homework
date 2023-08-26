@@ -1,2 +1,2 @@
-# pytyon-homework
+# python-homework
 module 2 assignment
