@@ -1,0 +1,5 @@
+Financial Analysis
+The total months is 86.
+The total is: $ 38382578
+The greatest increase in profits is:446309.0465116279
+The greatest decrease in profits is:86
