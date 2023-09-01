@@ -1,8 +1,0 @@
-FINANCIAL ANALYSIS
--------------------------------------------------------------------------
-The total months is 86.
-The total is: $ 38382578
-Average change in P/L over the entire period is $: -2315.1176470588234
-The greatest increase in profits is $:25 1926159.0
-The greatest decrease in profits is $:44 -2196167.0
-
